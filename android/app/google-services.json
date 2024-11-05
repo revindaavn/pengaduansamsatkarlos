@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439008963840",
+    "project_id": "pengaduansamsat",
+    "storage_bucket": "pengaduansamsat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439008963840:android:5eb1d087f7442fc1c617e5",
+        "android_client_info": {
+          "package_name": "com.example.kepuasanlayanan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh-nZbXedECi81bHhIbHNivY9Fw1LzZEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
